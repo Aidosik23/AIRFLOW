@@ -8,9 +8,9 @@
 
 А в общем и целом нужно запомнить, что AirFlow это **оркестратор** (не ELT-инструмент), в котором есть возможность прописывать ETL процессы, на языке Python. Каждый такой процесс представляет собой DAG, состоящий из определённых задач.
 
-<p align="center">
+[<p align="center">
     <img src="./../png/airflow_logo.jpg" alt="AirFlow" />
-</p>
+</p>](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/airflow_logo.jpg)
 
 ## DAG
 
