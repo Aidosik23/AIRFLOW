@@ -14,9 +14,7 @@
 
 DAG(Directed Acyclic Graph, направленный ациклический граф) представлет из себя набор **тАсок**(задач), идущих последовательно друг за дружкой, либо параллельно, которые нельзя зациклить по кругу, т.е. своего рода строится прямолинейный конвеер обработки данных.
 
-<p align="center">
-    <img src="./../png/af_dag.png" alt="AirFlow" />
-</p>
+![Описание дага](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/af_dag.png)
 
 ## Архитектура AirFlow
 
@@ -27,9 +25,7 @@ AirFlow состоит из четырёх основных, взаимосвя�
 * Воркеры (Workers)
 * Веб-сервер AirFlow
 
-<p align="center">
-    <img src="./../png/af_arfitecture.png" alt="AirFlow" />
-</p>
+![Архитектура дага](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/af_arfitecture.png)
 
 ### Задачи планировщика
 
@@ -213,9 +209,7 @@ localhost:8080
 
 Тем самым переходим на стартовую страницу.
 
-<p align="center">
-    <img src="./../png/af_start_page.png" alt="AirFlow" />
-</p>
+![Страница](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/af_start_page.png)
 
 
 ```
