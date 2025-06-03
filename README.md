@@ -235,9 +235,7 @@ localhost:8080
 |Extra|могут быть кавычки, необходимо оставить пустое поле, иначе будет ошибка подключения.|
 
 
-<p align="center">
-    <img src="./../png/af_connection.png" alt="AirFlow" />
-</p>
+![Страница](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/af_connection.png)
 
 Возвращаемся на главную страницу и заходим в наш DAG, жамкув по его имени. 
 
@@ -406,6 +404,4 @@ print_count_string_in_df = BashOperator(
 
 Чтобы посмотреть результат последнего пункта, во вкладке **graph** выдели последнюю зелёную таску (print_count_string_in_df), и появятся дополнительные вкладки. Перейдите во вкладку **Logs**, и вы увидите запись, представленную на скриншоте.
 
-<p align="center">
-    <img src="./../png/af_final_task.png" alt="AirFlow" />
-</p>
+![Страница](https://raw.githubusercontent.com/halltape/HalltapeRoadmapDE/main/png/af_connection.png)
